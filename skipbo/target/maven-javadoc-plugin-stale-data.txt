@@ -1,0 +1,42 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/SIDDHARTH THAKUR/OneDrive/Documents/NetBeansProjects/skipbo/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/SIDDHARTH THAKUR/OneDrive/Documents/NetBeansProjects/skipbo/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'skipbo 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'skipbo 1.0-SNAPSHOT API'
+ca.sheridancollege.skipbo
+C:\Users\SIDDHARTH THAKUR\OneDrive\Documents\NetBeansProjects\skipbo\src\main\java = 1713060024526
+C:\Users\SIDDHARTH THAKUR\OneDrive\Documents\NetBeansProjects\skipbo\target\site\apidocs\allclasses-index.html = 1713060353118
+C:\Users\SIDDHARTH THAKUR\OneDrive\Documents\NetBeansProjects\skipbo\target\site\apidocs\allpackages-index.html = 1713060353121
+C:\Users\SIDDHARTH THAKUR\OneDrive\Documents\NetBeansProjects\skipbo\target\site\apidocs\element-list = 1713060353020
+C:\Users\SIDDHARTH THAKUR\OneDrive\Documents\NetBeansProjects\skipbo\target\site\apidocs\help-doc.html = 1713060353154
+C:\Users\SIDDHARTH THAKUR\OneDrive\Documents\NetBeansProjects\skipbo\target\site\apidocs\index-all.html = 1713060353146
+C:\Users\SIDDHARTH THAKUR\OneDrive\Documents\NetBeansProjects\skipbo\target\site\apidocs\index.html = 1713060353149
+C:\Users\SIDDHARTH THAKUR\OneDrive\Documents\NetBeansProjects\skipbo\target\site\apidocs\jquery-ui.overrides.css = 1713060353175
+C:\Users\SIDDHARTH THAKUR\OneDrive\Documents\NetBeansProjects\skipbo\target\site\apidocs\member-search-index.js = 1713060353128
+C:\Users\SIDDHARTH THAKUR\OneDrive\Documents\NetBeansProjects\skipbo\target\site\apidocs\module-search-index.js = 1713060353123
+C:\Users\SIDDHARTH THAKUR\OneDrive\Documents\NetBeansProjects\skipbo\target\site\apidocs\overview-tree.html = 1713060353101
+C:\Users\SIDDHARTH THAKUR\OneDrive\Documents\NetBeansProjects\skipbo\target\site\apidocs\package-search-index.js = 1713060353125
+C:\Users\SIDDHARTH THAKUR\OneDrive\Documents\NetBeansProjects\skipbo\target\site\apidocs\script.js = 1713060353159
+C:\Users\SIDDHARTH THAKUR\OneDrive\Documents\NetBeansProjects\skipbo\target\site\apidocs\search.js = 1713060353162
+C:\Users\SIDDHARTH THAKUR\OneDrive\Documents\NetBeansProjects\skipbo\target\site\apidocs\stylesheet.css = 1713060353157
+C:\Users\SIDDHARTH THAKUR\OneDrive\Documents\NetBeansProjects\skipbo\target\site\apidocs\tag-search-index.js = 1713060353129
+C:\Users\SIDDHARTH THAKUR\OneDrive\Documents\NetBeansProjects\skipbo\target\site\apidocs\type-search-index.js = 1713060353126
